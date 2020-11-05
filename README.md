@@ -12,3 +12,4 @@
 *   https://proceedings.neurips.cc/paper/2020
 *   AI KAIST - http://gsai.kaist.ac.kr/publication-research-year/
 *   https://thispersondoesnotexist.com/
+*   https://www.kaggle.com/c/deepfake-detection-challenge
