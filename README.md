@@ -16,3 +16,5 @@
 *   https://dacon.io/competitions/official/235655/overview/
 *   http://www.aitimes.kr/news/articleView.html?idxno=14906
 *   https://aihub.or.kr/aidata/8005
+*   https://arxiv.org/abs/1901.08971
+*   https://arxiv.org/abs/1909.12962
