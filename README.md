@@ -13,5 +13,6 @@
 *   AI KAIST - http://gsai.kaist.ac.kr/publication-research-year/
 *   https://thispersondoesnotexist.com/
 *   https://www.kaggle.com/c/deepfake-detection-challenge
+*   https://dacon.io/competitions/official/235655/overview/
 *   http://www.aitimes.kr/news/articleView.html?idxno=14906
 *   https://aihub.or.kr/aidata/8005
