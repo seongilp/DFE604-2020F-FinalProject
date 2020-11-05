@@ -1,7 +1,7 @@
 ## To Do 
 
 *   [ ] 논문 주제 정하기
-    *   GAN, ...
+    *   GAN, deep fake
 *   [ ] 자료 검색
 *   [ ] proposal 작성
 
@@ -14,3 +14,4 @@
 *   https://thispersondoesnotexist.com/
 *   https://www.kaggle.com/c/deepfake-detection-challenge
 *   http://www.aitimes.kr/news/articleView.html?idxno=14906
+*   https://aihub.or.kr/aidata/8005
