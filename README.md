@@ -5,6 +5,15 @@
 *   [ ] 자료 검색
 *   [ ] proposal 작성
 
+## Draft
+
+*   Introduction (motivation, related works, challenges)
+*   Dataset - kaggle, dacon
+*   Current status
+*   Goals to achieve throughout this project
+*   Brief / tentative schedule
+*   Comparison with SOTA(state-of-the-art) and baseline
+
 ## Links
 
 *   딥러닝논문읽기모임 https://www.youtube.com/channel/UCDULrK2OJsiDhFroa2Aj_LQ/videos
@@ -13,9 +22,11 @@
 *   https://proceedings.neurips.cc/paper/2020
 *   AI KAIST - http://gsai.kaist.ac.kr/publication-research-year/
 *   https://thispersondoesnotexist.com/
-*   https://www.kaggle.com/c/deepfake-detection-challenge
-*   https://dacon.io/competitions/official/235655/overview/
-*   http://www.aitimes.kr/news/articleView.html?idxno=14906
+*   Dataset
+    *   https://www.kaggle.com/c/deepfake-detection-challenge
+    *   https://dacon.io/competitions/official/235655/overview/
+*   Motivation
+    *   http://www.aitimes.kr/news/articleView.html?idxno=14906
 *   https://aihub.or.kr/aidata/8005
 *   https://arxiv.org/abs/1901.08971
 *   https://arxiv.org/abs/1909.12962
