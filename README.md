@@ -20,4 +20,5 @@
 *   https://arxiv.org/abs/1909.12962
 *   https://hoya012.github.io/
 *   https://mlv.korea.ac.kr/publications
-*   https://lsjsj92.tistory.com/599
+*   https://lsjsj92.tistory.com/599 NLP
+*   https://arxiv.org/pdf/2004.10934.pdf YoLo4
