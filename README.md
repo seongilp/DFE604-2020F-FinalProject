@@ -1,9 +1,9 @@
 ## To Do 
 
-*   [ ] 논문 주제 정하기
+*   [x] 논문 주제 정하기
     *   GAN, deep fake
-*   [ ] 자료 검색
-*   [ ] proposal 작성
+*   [x] 자료 검색
+*   [x] proposal 작성
 
 ## Draft
 
