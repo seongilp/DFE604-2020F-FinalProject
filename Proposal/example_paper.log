@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  3 DEC 2020 21:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  5 DEC 2020 15:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/zihado/Downloads/icml2019_style-DFE604/example_paper.tex
-(/Users/zihado/Downloads/icml2019_style-DFE604/example_paper.tex
+**/Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/example_paper.tex
+(/Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/example_paper.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -259,11 +259,11 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip56
-) (/Users/zihado/Downloads/icml2019_style-DFE604/icml2019.sty
+) (/Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/icml2019.sty
 Package: icml2019 2019/01/07 v2.0 ICML Conference Style File
  (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
-) (/Users/zihado/Downloads/icml2019_style-DFE604/fancyhdr.sty
+) (/Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/fancyhdr.sty
 \fancy@headwidth=\skip57
 \f@ncyO@elh=\skip58
 \f@ncyO@erh=\skip59
@@ -279,7 +279,7 @@ Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
-) (/Users/zihado/Downloads/icml2019_style-DFE604/algorithm.sty
+) (/Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/algorithm.sty
 Package: algorithm 
 
 Document Style `algorithm' - floating environment
@@ -295,7 +295,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks22
 \c@algorithm=\count198
-) (/Users/zihado/Downloads/icml2019_style-DFE604/algorithmic.sty
+) (/Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/algorithmic.sty
 Package: algorithmic 
 
 Document Style `algorithmic' - environment
@@ -346,7 +346,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 108.
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count278
 \l__pdf_internal_box=\box51
-) (/Users/zihado/Downloads/icml2019_style-DFE604/example_paper.aux)
+) (/Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/example_paper.aux)
 \openout1 = `example_paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -434,7 +434,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
 LaTeX Info: Redefining \nameref on input line 11.
- (/Users/zihado/Downloads/icml2019_style-DFE604/example_paper.out) (/Users/zihado/Downloads/icml2019_style-DFE604/example_paper.out)
+ (/Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/example_paper.out) (/Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/example_paper.out)
 \@outlinefile=\write3
 \openout3 = `example_paper.out'.
 
@@ -458,7 +458,7 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
- (/Users/zihado/Downloads/icml2019_style-DFE604/example_paper.aux)
+ (/Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/example_paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
 Package rerunfilecheck Info: File `example_paper.out' has not changed.
@@ -467,14 +467,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
  8490 strings out of 480608
- 134213 string characters out of 5903630
+ 134507 string characters out of 5903630
  438762 words of memory out of 5000000
  24121 multiletter control sequences out of 15000+600000
  558188 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,6n,49p,806b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,6n,49p,820b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb4.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbba.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbd.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc0.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbce.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on /Users/zihado/Downloads/icml2019_style-DFE604/example_paper.pdf (1 page, 2151021 bytes).
+Output written on /Users/zihado/work/class/DFE604-2020F-FinalProject/Proposal/example_paper.pdf (1 page, 2151021 bytes).
 PDF statistics:
  250 PDF objects out of 1000 (max. 8388607)
  189 compressed objects within 2 object streams
